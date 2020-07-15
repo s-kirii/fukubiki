@@ -10,7 +10,7 @@ This is constructor for object.
 	- win
 	Number of win_balls. And default is 2.
 ### pick_ball()
-You can take balls by this method. And results are stored in "pick_ball.result".
+You can take balls by this method. And results are stored in "pick_ball.result" as list.
 - arguments
 	- times
 	Number of balls you pick.The default is 1.
