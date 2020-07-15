@@ -1,18 +1,18 @@
 ver.1.0
-#box object
+# box object
 You create drawing box object who has some balls including win_ball as name box.
-##arguments
-###number_of_balls
+## arguments
+### number_of_balls
 Totsl nunber of balls in box as this argument. And default is 100.
-###win
+### win
 Number of win_balls. And default is 2.
-##methods
-###pick_ball
+## methods
+### pick_ball
 You can take balls by this method. And results are stored in "pick_ball.result".
-####arguments
-#####times
+#### arguments
+##### times
 Number of balls you pick.The default is 1.
-#####preult
+##### preult
 If it is True, this method prints results. And defalt is False.
-#####wait
+##### wait
 You can set interval time for picking balls by this argument. And default is 3.
