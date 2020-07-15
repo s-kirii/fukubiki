@@ -1,6 +1,6 @@
 ver.1.0
 # box object
-You create drawing box object who has some balls including win\_ball as name "box\(\)".
+You can create instance of drawing box object who has some balls including win\_ball as name "box\(\)".
 ## methods
 ### \_\_init\_\_\(\)
 This is constructor for object.
