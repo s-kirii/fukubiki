@@ -52,6 +52,6 @@ class box():
 Test codes area
 """
 if __name__=="__main__":
-    box=box(number_of_balls=3, win=1)
-    box.pick_ball(times=3, presult=True, wait=1)
-    box.pick_ball()
+    test=box(number_of_balls=3, win=1)
+    test.pick_ball(times=3, presult=True, wait=1)
+    test.pick_ball()
